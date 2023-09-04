@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Bem vindos ao meu perfil
+Sou uma estudante do alura, estou aprendendo linguagem Java Scripts.
+aqui vou compartilhar alguns dos meus projetos  
 <!--
 **karina689gomes/karina689gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
